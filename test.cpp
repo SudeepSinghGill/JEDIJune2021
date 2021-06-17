@@ -3,5 +3,5 @@ using namespace std;
 
 int main() {
   cout << "Hello, Testing Branching";
-  bool newEdit = false;
+  int flag = 0;
 }
